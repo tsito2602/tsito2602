@@ -4,11 +4,6 @@
 
 [![Blog](https://img.shields.io/badge/Blog-tsito.me-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://tsito.me)
 
-## About me
-
-- 都内でエンジニアとして働いている
-- 42 Tokyo 2026-02 Piscine → 2026-04 KickOff
-
 ## Tech Stack
 
 <p>

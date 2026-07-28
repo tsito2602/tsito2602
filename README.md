@@ -19,10 +19,6 @@
 
 ## GitHub Stats
 
-<div align="center">
-
 <img width="100%" src="https://raw.githubusercontent.com/tsito2602/tsito2602/main/profile-summary-card-output/transparent/0-profile-details.svg" alt="GitHub activity overview" />
 
 <img width="49%" src="https://raw.githubusercontent.com/tsito2602/tsito2602/main/profile-summary-card-output/transparent/2-most-commit-language.svg" alt="Most used languages by commit" />
-
-</div>

@@ -1,29 +1,58 @@
-# Hi, I'm tsito
+<div align="center">
 
-東京でエンジニアとして働きながら、42 Tokyoでソフトウェア開発を学んでいる。
+# Hi, I'm tsito 👋
 
-CやPythonで低レイヤーから基礎を学びつつ、TypeScript・React・Next.jsを使ったWeb開発にも取り組んでいる。
+**Software Engineer in Tokyo / 42 Tokyo Student**
+
+Webから低レイヤーまで、仕組みを理解しながら作ることが好き。
+
+[![Blog](https://img.shields.io/badge/Blog-tsito.me-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://tsito.me)
+
+</div>
+
+## About me
+
+- 都内でエンジニアとして働いている
+- 42 Tokyo 2026-02 Piscine → 2026-04 KickOff
+- CやPythonで基礎を深めながら、TypeScript・React・Next.jsでWeb開発に取り組んでいる
+- ゲーム、ガジェット、開発環境のカスタマイズが好き
+
+## Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&amp;logo=c&amp;logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&amp;logo=php&amp;logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&amp;logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&amp;logo=neovim&amp;logoColor=white" alt="Neovim" />
+</p>
+
+## Featured Projects
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| [tsito.me](https://github.com/tsito2602/tsito.me) | 学習記録や技術メモを発信する個人ブログ | Next.js / TypeScript |
+| [42cursus-a_maze_ing](https://github.com/tsito2602/42cursus-a_maze_ing) | 42cursusの迷路生成・描画プロジェクト | Python |
+| [nvimconf](https://github.com/tsito2602/nvimconf) | 日々育てているNeovimの個人設定 | Lua / Neovim |
 
 ## GitHub Stats
 
-<p>
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tsito2602&amp;theme=transparent"
-    alt="tsitoのGitHubプロフィール統計"
-  />
-</p>
+<div align="center">
 
-<p>
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tsito2602&amp;theme=transparent"
-    alt="tsitoのリポジトリ使用言語"
-  />
-</p>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tsito2602&amp;theme=transparent" alt="GitHub activity overview" />
 
-## Tech
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tsito2602&amp;theme=transparent" alt="GitHub stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tsito2602&amp;theme=transparent" alt="Most used languages by commit" />
 
-`C` `Python` `TypeScript` `React` `Next.js` `PHP` `SQL`
+</div>
 
-## Links
+---
 
-- Blog: [tsito.me](https://tsito.me)
+<div align="center">
+
+技術ブログ → **[tsito.me](https://tsito.me)**
+
+</div>

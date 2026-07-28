@@ -26,8 +26,8 @@ jobs:
         run: |
           sed -i \
             -e 's/#006AFF/#868DC9/g' \
-            -e 's/#417E87/#868DC9/g' \
-            -e 's/#0579C3/#868DC9/g' \
+            -e 's/#417E87/#FFFFFF/g' \
+            -e 's/#0579C3/#FFFFFF/g' \
             profile-summary-card-output/transparent/0-profile-details.svg \
             profile-summary-card-output/transparent/2-most-commit-language.svg
 

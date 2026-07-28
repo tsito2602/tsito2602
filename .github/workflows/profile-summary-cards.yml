@@ -1,0 +1,42 @@
+name: GitHub Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          UTC_OFFSET: 9
+          AUTO_PUSH: false
+          THEME: transparent
+
+      - name: Match card colors to the profile icon
+        run: |
+          sed -i \
+            -e 's/#006AFF/#868DC9/g' \
+            -e 's/#417E87/#868DC9/g' \
+            -e 's/#0579C3/#868DC9/g' \
+            profile-summary-card-output/transparent/0-profile-details.svg \
+            profile-summary-card-output/transparent/2-most-commit-language.svg
+
+      - name: Commit generated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-summary-card-output
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update profile summary cards"
+            git push
+          fi

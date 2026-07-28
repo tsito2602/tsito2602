@@ -21,9 +21,8 @@
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tsito2602&amp;theme=transparent" alt="GitHub activity overview" />
+<img width="100%" src="https://raw.githubusercontent.com/tsito2602/tsito2602/main/profile-summary-card-output/transparent/0-profile-details.svg" alt="GitHub activity overview" />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tsito2602&amp;theme=transparent" alt="GitHub stats" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tsito2602&amp;theme=transparent" alt="Most used languages by commit" />
+<img width="49%" src="https://raw.githubusercontent.com/tsito2602/tsito2602/main/profile-summary-card-output/transparent/2-most-commit-language.svg" alt="Most used languages by commit" />
 
 </div>

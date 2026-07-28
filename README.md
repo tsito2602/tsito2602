@@ -4,8 +4,6 @@
 
 **Software Engineer in Tokyo / 42 Tokyo Student**
 
-Webから低レイヤーまで、仕組みを理解しながら作ることが好き。
-
 [![Blog](https://img.shields.io/badge/Blog-tsito.me-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://tsito.me)
 
 </div>
@@ -14,8 +12,6 @@ Webから低レイヤーまで、仕組みを理解しながら作ることが�
 
 - 都内でエンジニアとして働いている
 - 42 Tokyo 2026-02 Piscine → 2026-04 KickOff
-- CやPythonで基礎を深めながら、TypeScript・React・Next.jsでWeb開発に取り組んでいる
-- ゲーム、ガジェット、開発環境のカスタマイズが好き
 
 ## Tech Stack
 
@@ -30,14 +26,6 @@ Webから低レイヤーまで、仕組みを理解しながら作ることが�
   <img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&amp;logo=neovim&amp;logoColor=white" alt="Neovim" />
 </p>
 
-## Featured Projects
-
-| Project | Description | Stack |
-| --- | --- | --- |
-| [tsito.me](https://github.com/tsito2602/tsito.me) | 学習記録や技術メモを発信する個人ブログ | Next.js / TypeScript |
-| [42cursus-a_maze_ing](https://github.com/tsito2602/42cursus-a_maze_ing) | 42cursusの迷路生成・描画プロジェクト | Python |
-| [nvimconf](https://github.com/tsito2602/nvimconf) | 日々育てているNeovimの個人設定 | Lua / Neovim |
-
 ## GitHub Stats
 
 <div align="center">
@@ -46,13 +34,5 @@ Webから低レイヤーまで、仕組みを理解しながら作ることが�
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tsito2602&amp;theme=transparent" alt="GitHub stats" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tsito2602&amp;theme=transparent" alt="Most used languages by commit" />
-
-</div>
-
----
-
-<div align="center">
-
-技術ブログ → **[tsito.me](https://tsito.me)**
 
 </div>

@@ -1,12 +1,8 @@
-<div align="center">
-
 # Hi, I'm tsito 👋
 
 **Software Engineer in Tokyo / 42 Tokyo Student**
 
 [![Blog](https://img.shields.io/badge/Blog-tsito.me-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://tsito.me)
-
-</div>
 
 ## About me
 
